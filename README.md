@@ -22,7 +22,7 @@ TEAM – ThrEshold Adaptive Memristor Model.
 
 VTEAM – Voltage ThrEshold Adaptive Memristor Model.
 
-They wrote a short manual and [movie](https://www.youtube.com/watch?v=wFqL5yYUEw8) for these models. The Verilog-A model is also described in the following paper: S. Kvatinsky, K. Talisveyberg. D. Fliter, E. G. Friedman, A. Kolodny, and U. C. Weiser, “Models of Memristors for SPICE Simulations,” Proceedings of the IEEE Convention of Electrical and Electronics Engineers in Israel, pp. 1-5, November 2012.
+They wrote a short [manual](Manual.pdf) and [movie](https://www.youtube.com/watch?v=wFqL5yYUEw8) for these models. The Verilog-A model is also described in the following paper: S. Kvatinsky, K. Talisveyberg. D. Fliter, E. G. Friedman, A. Kolodny, and U. C. Weiser, “Models of Memristors for SPICE Simulations,” Proceedings of the IEEE Convention of Electrical and Electronics Engineers in Israel, pp. 1-5, November 2012.
 
 For any Information contact them and note that for Virtuoso 6.1.5 there is a bug in some versions – use version 6.1.5-64b (IC06.15.500).
 
