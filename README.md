@@ -28,7 +28,8 @@ For any Information contact them and note that for Virtuoso 6.1.5 there is a bug
 
 Downloads
 
-Verilog-A Model
-MATLAB Model – Including GUI: memristor.m, memristorGUI.m, memristorGUI.fig.
+[Verilog-A Model](memristor_original.model)
+
+MATLAB Model – Including GUI: [memristor.m](memristor_original.m), [memristorGUI.m](MemristorGui_original.m), [memristorGUI.fig](MemristorGui_original.fig).
 
 ...
