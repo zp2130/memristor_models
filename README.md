@@ -7,6 +7,7 @@ Here you can find models for memristors implemented in Verilog-A (compatible wit
 The models are based on the papers:
 
 S. Kvatinsky, E. G. Friedman, A. Kolodny, and U. C. Weiser, “TEAM: ThrEshold Adaptive Memristor Model,” IEEE Transactions on Circuits and Systems I: Regular Papers (also CCIT Technical Report #804), Vol. 60, No. 1, pp. 211-221, January 2013.
+
 S. Kvatinsky, M. Ramadan, E. G. Friedman, A. Kolodny, and U. C. Weiser, “VTEAM – A General Model for Voltage Controlled Memristors,” Transactions on Circuits and Systems II: Express Briefs, Vol. 62, No. 8, pp. 786-790, August 2015. (also CCIT Technical Report #856)
 
 They include the following models:
